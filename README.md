@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/banner.png" alt="NusantaraGuard 8-Bit Banner" width="100%" />
+<img src="docs/assets/banner.png" alt="NusantaraGuard Banner" width="100%" />
 
 <br />
 <br />
@@ -9,7 +9,7 @@
 
 # NusantaraGuard
 
-**Aplikasi Peringatan Dini Gempa Bumi BMKG, Cuaca Ekstrem & Alat Siaga Darurat Offline bergaya Pixel Art 8-Bit untuk Indonesia**
+**Aplikasi Peringatan Dini Gempa Bumi BMKG, Cuaca Ekstrem & Alat Siaga Darurat Offline untuk Indonesia**
 
 ![Platform Android](https://img.shields.io/badge/Android-7.0%2B%20(API%2024%2B)-38B764?style=for-the-badge&logo=android&logoColor=white)
 ![Tema 8-Bit](https://img.shields.io/badge/Tema-Pixel%20Art%208--Bit-73EFF7?style=for-the-badge&labelColor=161926)
@@ -36,7 +36,7 @@ Berbeda dengan aplikasi notifikasi biasa, NusantaraGuard bekerja **langsung dari
 * **Estimasi Waktu Gelombang P & S:** Memberi gambaran perkiraan jeda tiba gelombang getaran primer (`P-Wave`) dan sekunder (`S-Wave`) serta arah kompas episentrum.
 * **Peta Guncangan (Shakemap MMI):** Menampilkan visual peta intensitas guncangan resmi BMKG untuk kejadian gempa utama.
 
-### 2. Peta Radar 8-Bit & Garis Patahan Aktif Indonesia
+### 2. Peta Radar & Garis Patahan Aktif Indonesia
 * **Peta Taktis Bergaya Retro:** Peta interaktif berwarna gelap agar jalur patahan, cincin radius guncangan (`50 km` & `150 km`), dan animasi gelombang kejut episentrum terlihat kontras.
 * **Overlay Patahan Nusantara:** Menampilkan jalur zona subduksi dan sesar aktif Indonesia langsung di atas peta radar.
 * **Fokus Cepat:** Pindah fokus kamera sekali ketuk antara **Episentrum Gempa**, **Lokasi Acuan**, atau **Keduanya Sekaligus**, serta tombol **Bagikan Info Gempa** ke keluarga.
@@ -45,7 +45,7 @@ Berbeda dengan aplikasi notifikasi biasa, NusantaraGuard bekerja **langsung dari
 * **Sirine Darurat Saluran Alarm:** Untuk gempa berdampak **Kritis**, potensi **Tsunami**, maupun uji **Simulasi Siaga**, aplikasi membunyikan sirine dual-tone harmonik pada stream alarm sistem disertai pola getar SOS agar tetap terdengar jelas meskipun volume notifikasi biasa sedang kecil.
 * **Kontrol Cepat Sirine:** Tombol **"Matikan Sirine"** tersedia langsung pada notifikasi, atau berhenti otomatis ketika notifikasi digeser/dibuka.
 * **Pantauan Kota Keluarga (*Watchlist*):** Tambahkan kota tempat tinggal orang tua atau keluarga untuk melihat jarak episentrum gempa terbaru dan kondisi cuaca di kota tersebut.
-* **Notifikasi Ikon 8-Bit & Home Screen Widget:** Widget layar utama menampilkan ringkasan magnitudo, jarak gempa, lokasi, dan cuaca lokal secara cepat.
+* **Notifikasi Ikon & Home Screen Widget:** Widget layar utama menampilkan ringkasan magnitudo, jarak gempa, lokasi, dan cuaca lokal secara cepat.
 
 ### 4. Cuaca, Kualitas Udara (AQI) & Pusat Siaga Offline
 * **Telemetri Atmosfer Lengkap:** Suhu saat ini, suhu terasa (*apparent*), kelembaban, angin, indeks UV, PM2.5, tingkat polusi **European AQI**, grafik tren per jam (**24 Jam**), serta prakiraan **7 Hari**.
@@ -86,7 +86,7 @@ Seluruh maskot, status cuaca, dan peralatan darurat digambar khusus secara *fram
 | Layar Monitor Utama | Peta Radar Penuh | Arsip Seismik BMKG | Pusat Siaga & Darurat |
 | :---: | :---: | :---: | :---: |
 | <img src="docs/assets/screen_monitor.png" alt="Layar Monitor Utama" width="210" /> | <img src="docs/assets/screen_radar.png" alt="Peta Radar Penuh" width="210" /> | <img src="docs/assets/screen_archive.png" alt="Arsip Seismik BMKG" width="210" /> | <img src="docs/assets/screen_siaga.png" alt="Pusat Siaga & Darurat" width="210" /> |
-| *Lokasi aktif, mini-peta radar, osiloskop seismograf, cuaca, AQI & Guardian Sentinel* | *Peta taktis 8-bit, garis patahan aktif & cincin radius guncangan* | *Riwayat 15 gempa terkini M>=5.0 & 15 gempa dirasakan lengkap dengan filter jarak* | *Senter SOS Morse, Peluit SAR 3 kHz, Mode Siaga 30 detik & Checklist Tas Siaga* |
+| *Lokasi aktif, mini-peta radar, osiloskop seismograf, cuaca, AQI & Guardian Sentinel* | *Peta taktis, garis patahan aktif & cincin radius guncangan* | *Riwayat 15 gempa terkini M>=5.0 & 15 gempa dirasakan lengkap dengan filter jarak* | *Senter SOS Morse, Peluit SAR 3 kHz, Mode Siaga 30 detik & Checklist Tas Siaga* |
 
 </div>
 <!-- SCREENSHOTS_END -->
